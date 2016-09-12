@@ -1,0 +1,12 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shop.js",
+  "scripts": {
+    "test": "mocha specs"
+    "start": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
